@@ -1,0 +1,2 @@
+# sandbox
+Java Autotests repository
